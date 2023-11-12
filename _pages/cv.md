@@ -32,6 +32,7 @@ Investigated the thermal tolerance of feral and managed honey bees (Apis mellife
 #### Advisors: James Nieh, Amy Geffre
 Assisted a graduate student in a research project focused on viral infections of feral and managed honey bees (Apis mellifera). The research included viral amplification and monitoring the survival of feral and managed honey bees in laboratory survival trials. 
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 Talks
 ======
