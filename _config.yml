@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anngely Leeds"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Anngely Leeds"
 description              : &description "I am a first year PhD student interested in insect thermal ecology and conservation."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "My information"
+  name             : "Anngely Leeds"
   avatar           : "profile.png"
   bio              : "Biology PhD Student"
   location         : "Georgetown University"
