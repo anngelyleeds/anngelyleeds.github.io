@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<object
+type="application/pdf"
+data="https://github.com/anngelyleeds/anngelyleeds.github.io/blob/master/files/Anngely.Leeds.CV..pdf"
+width="600"
+height="700"
+>
+</object>
+
 #### Email: acl154@georgetown.edu
 
 ----------------------------------------------------------------------------------------
