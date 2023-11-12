@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-### Email: acl154@georgetown.edu
+#### Email: acl154@georgetown.edu
 
+----------------------------------------------------------------------------------------
 Education
 ======
 * B.S. in Ecology, Behavior, and Evolution, University of California, San Diego, 2021
@@ -34,6 +35,9 @@ Investigated the thermal tolerance of feral and managed honey bees (Apis mellife
 Assisted a graduate student in a research project focused on viral infections of feral and managed honey bees (Apis mellifera). The research included viral amplification and monitoring the survival of feral and managed honey bees in laboratory survival trials. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+Research
+======
 
 Talks
 ======
