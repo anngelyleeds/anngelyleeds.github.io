@@ -15,3 +15,4 @@ Before my master's, I graduated from UC San Diego with a bachelor's degree in Ec
 <br/><img src='/images/ries_lab_checkerspot.PNG' 
        width="500" 
        height="500">
+###### Designed by Anngely Leeds
