@@ -12,7 +12,6 @@ I am a first year PhD student in the [Ries Lab of Butterfly Informatics](https:/
 Prior to starting my PhD, I graduated from UC San Diego with a master's degree in Biology. For my thesis research, I investigated the thermal tolerance of feral and managed honey bees in San Diego in the [lab of James Nieh](https://labs.biology.ucsd.edu/nieh/). 
 
 Before my master's, I graduated from UC San Diego with a bachelor's degree in Ecology, Behavior, and Evolution. Outside of research, I enjoy crocheting and spending time with my two cats.
-
 <br/><img src='/images/ries_lab_checkerspot.PNG' 
        width="500" 
        height="500">
