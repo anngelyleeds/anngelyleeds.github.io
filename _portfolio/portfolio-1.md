@@ -1,5 +1,5 @@
 ---
-title: "Spectrum News Socal reports on my feral bee research"
+title: "Spectrum News SoCal reports on my feral bee research"
 excerpt: "Bree Steffen (Spectrum News SoCal) covers my research in her news story<br/><img src='/images/me_with_ecr_bees.jpg'>"
 collection: portfolio
 ---
