@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year PhD student in the [Ries Lab of Butterfly Informatics](https://www.butterflyinformatics.org/) at Georgetown University. I study the impacts of sub-optimal nutrition and climate stressors (heat waves and drought) on the overwintering success of Baltimore checkerspot caterpillars. My research includes collecting butterflies in the field, laboratory-rearing caterpillars, and I am starting to dabble in species distribution modeling.
+I am a third year PhD student in the [Ries Lab of Butterfly Informatics](https://www.butterflyinformatics.org/) at Georgetown University. I study the impacts of invasive host plant use and climate stressors (heat waves and drought) on the overwintering success of Baltimore checkerspot caterpillars. My research includes collecting butterflies in the field, laboratory-rearing caterpillars, and I am starting to dabble in species distribution modeling.
 
 Prior to starting my PhD, I graduated from UC San Diego with a master's degree in Biology. For my thesis research, I investigated the thermal tolerance of feral and managed honey bees in San Diego in the [lab of James Nieh](https://labs.biology.ucsd.edu/nieh/). 
 
